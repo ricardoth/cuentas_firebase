@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45839549703",
+    "firebase_url": "https://gastosflutter-7a7b1.firebaseio.com",
+    "project_id": "gastosflutter-7a7b1",
+    "storage_bucket": "gastosflutter-7a7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45839549703:android:35ef55b6849372e62f71a2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ejemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45839549703-suo615r9dnk2lmkophbkuv4bibrj2pot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiE-kTod6-rDvc31w9Rm1XwALIXS7Z_Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45839549703-suo615r9dnk2lmkophbkuv4bibrj2pot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
